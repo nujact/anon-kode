@@ -4,11 +4,11 @@
 https://github.com/user-attachments/assets/7a9253a7-8bb0-40d5-a3f3-5e6096d7c789
 
 
-Terminal-based AI coding retard that can use any model that supports the OpenAI-style API.
+Terminal-based AI coding buddy that can use any model that supports the OpenAI-style API.
 
 - Fixes your spaghetti code
-- Explains wtf that function does
-- Runs tests and other bullshit
+- Explains what that function does
+- Runs tests and other tasks
 - Whatever else claude-code can do, depending on the model you use
 
 ## HOW TO USE
